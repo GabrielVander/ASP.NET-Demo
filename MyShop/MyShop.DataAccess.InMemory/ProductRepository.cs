@@ -79,5 +79,4 @@ namespace MyShop.DataAccess.InMemory
             }
         }
     }
-    }
 }
